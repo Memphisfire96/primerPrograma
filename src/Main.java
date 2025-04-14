@@ -11,6 +11,16 @@ public class Main {
         double media = (notaDeLaPelicula + 6.0+ 9.0) / 3;
         System.out.println(media);
 
+        //prueba de string mas concatenado
+
+        String sinopsis = """
+                Matrix es una paradoja
+                La mejor pelicula del fin del milenio
+                Fué lanzada en :
+                """ + fechaDeLanzamiento;
+        System.out.println(sinopsis);
+
+
 
 
 
