@@ -20,6 +20,8 @@ public class Main {
                 """ + fechaDeLanzamiento;
         System.out.println(sinopsis);
 
+        int clasificacion = (int) (media/2);
+        System.out.println(clasificacion);
 
 
 
