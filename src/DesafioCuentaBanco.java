@@ -57,6 +57,9 @@ public class DesafioCuentaBanco {
                     break;
                 case 9:
                     break;
+                default:
+                    System.out.println("Opción no valida");
+
             }
 
         }
